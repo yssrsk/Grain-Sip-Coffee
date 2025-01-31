@@ -2,5 +2,5 @@
 Grain & Sip Coffee Project
 
 Inventory + Customer + Transaction Management System
-IDE: Visual Studio
+IDE: Visual Studio, SQL Server Management Studio
 Languages: C#, SQL
